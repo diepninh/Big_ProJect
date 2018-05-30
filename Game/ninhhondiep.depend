@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1524206146 source:c:\users\dell\documents\ninhhondiep\console.cpp
+	"console.h"
+
+1524211942 c:\users\dell\documents\ninhhondiep\console.h
+	<iostream>
+	<cstdio>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1525240355 source:c:\users\dell\documents\ninhhondiep\gioithieu.cpp
+	"gioithieu.h"
+
+1524212835 c:\users\dell\documents\ninhhondiep\gioithieu.h
+	"console.h"
+
+1526629854 source:c:\users\dell\documents\ninhhondiep\main.cpp
+	"console.h"
+	"gioithieu.h"
+	"bangbandau.h"
+	"dichuyen.h"
+	"datmauso.h"
+	"luudiem.h"
+	"hienthimanhinh.h"
+	"taoso.h"
+	"kiemtra.h"
+	"tudichuyen.h"
+
+1526629928 source:c:\users\dell\documents\ninhhondiep\bangbandau.cpp
+	"bangbandau.h"
+
+1524213164 c:\users\dell\documents\ninhhondiep\bangbandau.h
+	"console.h"
+
+1525241245 source:c:\users\dell\documents\ninhhondiep\datmauso.cpp
+	"datmauso.h"
+
+1524885263 c:\users\dell\documents\ninhhondiep\datmauso.h
+	"console.h"
+
+1525690990 source:c:\users\dell\documents\ninhhondiep\dichuyen.cpp
+	"dichuyen.h"
+
+1524222211 c:\users\dell\documents\ninhhondiep\dichuyen.h
+	"console.h"
+	"bangbandau.h"
+
+1526011748 source:c:\users\dell\documents\ninhhondiep\hienthimanhinh.cpp
+	"hienthimanhinh.h"
+
+1524927430 c:\users\dell\documents\ninhhondiep\hienthimanhinh.h
+	"console.h"
+	"luudiem.h"
+	"dichuyen.h"
+	"datmauso.h"
+
+1524885260 c:\users\dell\documents\ninhhondiep\luudiem.h
+	"console.h"
+
+1526037454 source:c:\users\dell\documents\ninhhondiep\kiemtra.cpp
+	"kiemtra.h"
+
+1524927352 c:\users\dell\documents\ninhhondiep\kiemtra.h
+	"console.h"
+	"dichuyen.h"
+	"taoso.h"
+
+1524927353 c:\users\dell\documents\ninhhondiep\taoso.h
+	"console.h"
+	"dichuyen.h"
+
+1524885259 source:c:\users\dell\documents\ninhhondiep\luudiem.cpp
+	"luudiem.h"
+
+1526629928 source:c:\users\dell\documents\ninhhondiep\taoso.cpp
+	"taoso.h"
+
+1526629817 source:c:\users\dell\documents\ninhhondiep\tudichuyen.cpp
+	"tudichuyen.h"
+
+1526629817 c:\users\dell\documents\ninhhondiep\tudichuyen.h
+	"console.h"
+	"dichuyen.h"
+
+1524206146 source:c:\users\dell\documents\ninhhongdiepbeo\console.cpp
+	"console.h"
+
+1524211942 c:\users\dell\documents\ninhhongdiepbeo\console.h
+	<iostream>
+	<cstdio>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1525241245 source:c:\users\dell\documents\ninhhongdiepbeo\datmauso.cpp
+	"datmauso.h"
+
+1524885263 c:\users\dell\documents\ninhhongdiepbeo\datmauso.h
+	"console.h"
+
+1525690990 source:c:\users\dell\documents\ninhhongdiepbeo\dichuyen.cpp
+	"dichuyen.h"
+
+1524222211 c:\users\dell\documents\ninhhongdiepbeo\dichuyen.h
+	"console.h"
+	"bangbandau.h"
+
+1524213164 c:\users\dell\documents\ninhhongdiepbeo\bangbandau.h
+	"console.h"
+
+1525240355 source:c:\users\dell\documents\ninhhongdiepbeo\gioithieu.cpp
+	"gioithieu.h"
+
+1524212835 c:\users\dell\documents\ninhhongdiepbeo\gioithieu.h
+	"console.h"
+
+1526011748 source:c:\users\dell\documents\ninhhongdiepbeo\hienthimanhinh.cpp
+	"hienthimanhinh.h"
+
+1524927430 c:\users\dell\documents\ninhhongdiepbeo\hienthimanhinh.h
+	"console.h"
+	"luudiem.h"
+	"dichuyen.h"
+	"datmauso.h"
+
+1524885260 c:\users\dell\documents\ninhhongdiepbeo\luudiem.h
+	"console.h"
+
+1526037454 source:c:\users\dell\documents\ninhhongdiepbeo\kiemtra.cpp
+	"kiemtra.h"
+
+1524927352 c:\users\dell\documents\ninhhongdiepbeo\kiemtra.h
+	"console.h"
+	"dichuyen.h"
+	"taoso.h"
+
+1524927353 c:\users\dell\documents\ninhhongdiepbeo\taoso.h
+	"console.h"
+	"dichuyen.h"
+
+1524885259 source:c:\users\dell\documents\ninhhongdiepbeo\luudiem.cpp
+	"luudiem.h"
+
+1526629817 source:c:\users\dell\documents\ninhhongdiepbeo\tudichuyen.cpp
+	"tudichuyen.h"
+
+1526629817 c:\users\dell\documents\ninhhongdiepbeo\tudichuyen.h
+	"console.h"
+	"dichuyen.h"
+
+1527668339 source:c:\users\dell\documents\ninhhongdiepbeo\bangbandau.cpp
+	"bangbandau.h"
+
+1527668355 source:c:\users\dell\documents\ninhhongdiepbeo\main.cpp
+	"console.h"
+	"gioithieu.h"
+	"bangbandau.h"
+	"dichuyen.h"
+	"datmauso.h"
+	"luudiem.h"
+	"hienthimanhinh.h"
+	"taoso.h"
+	"kiemtra.h"
+	"tudichuyen.h"
+
+1527668340 source:c:\users\dell\documents\ninhhongdiepbeo\taoso.cpp
+	"taoso.h"
+
+1527676854 source:c:\users\administrator\desktop\game\bangbandau.cpp
+	"bangbandau.h"
+
+1527676852 c:\users\administrator\desktop\game\bangbandau.h
+	"console.h"
+
+1527676846 c:\users\administrator\desktop\game\console.h
+	<iostream>
+	<cstdio>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1527676849 source:c:\users\administrator\desktop\game\console.cpp
+	"console.h"
+
+1527676896 source:c:\users\administrator\desktop\game\datmauso.cpp
+	"datmauso.h"
+
+1527676894 c:\users\administrator\desktop\game\datmauso.h
+	"console.h"
+
+1527676892 source:c:\users\administrator\desktop\game\dichuyen.cpp
+	"dichuyen.h"
+
+1527676889 c:\users\administrator\desktop\game\dichuyen.h
+	"console.h"
+	"bangbandau.h"
+
+1527676888 source:c:\users\administrator\desktop\game\gioithieu.cpp
+	"gioithieu.h"
+
+1527676886 c:\users\administrator\desktop\game\gioithieu.h
+	"console.h"
+
+1527676884 source:c:\users\administrator\desktop\game\hienthimanhinh.cpp
+	"hienthimanhinh.h"
+
+1527676875 c:\users\administrator\desktop\game\hienthimanhinh.h
+	"console.h"
+	"luudiem.h"
+	"dichuyen.h"
+	"datmauso.h"
+
+1527676898 c:\users\administrator\desktop\game\luudiem.h
+	"console.h"
+
+1527676909 source:c:\users\administrator\desktop\game\kiemtra.cpp
+	"kiemtra.h"
+
+1527676906 c:\users\administrator\desktop\game\kiemtra.h
+	"console.h"
+	"dichuyen.h"
+	"taoso.h"
+
+1527676902 c:\users\administrator\desktop\game\taoso.h
+	"console.h"
+	"dichuyen.h"
+
+1527676900 source:c:\users\administrator\desktop\game\luudiem.cpp
+	"luudiem.h"
+
+1527676905 source:c:\users\administrator\desktop\game\taoso.cpp
+	"taoso.h"
+
